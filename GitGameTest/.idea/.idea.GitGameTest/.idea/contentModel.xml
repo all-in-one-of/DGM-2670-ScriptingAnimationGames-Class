@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\10598429\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\10598429\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GitGameTest.699497727.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10598429\Documents\ScriptingFall2019\GitGameTest" t="IncludeRecursive">
+    <e p="C:\Users\10598429\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GitGameTest.1410983820.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10598429\Documents\_Fall 2019 - GitKraken Clones\DGM-2670-ScriptingAnimationGames-Class\GitGameTest" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Scenes" t="Include">
+          <e p="CharacterMover.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />

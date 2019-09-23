@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfc0af8e-7547-40e5-8281-7cde51d2b08c" name="Default Changelist" comment="" />
+    <list default="true" id="491b86cc-a38f-4696-876c-42e5a482b3da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,32 +12,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IntData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GML-Like Events/CreateEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GML-Like Events/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/My Game/Scripts/scr_EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/My Game/Scripts/scr_Waypoints.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GML-Like Events/CreateEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/JumpArkControle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/My Game/Scripts/scr_Waypoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/My Game/Scripts/scr_EnemyAI.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Q4ADlEDzCm0Ksi8hiB7F4xtWgt" />
+  <component name="ProjectId" id="1RFnA68xT9Kc6ztSz1A8CKXXz8E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -78,16 +64,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bfc0af8e-7547-40e5-8281-7cde51d2b08c" name="Default Changelist" comment="" />
-      <created>1567019378389</created>
+      <changelist id="491b86cc-a38f-4696-876c-42e5a482b3da" name="Default Changelist" comment="" />
+      <created>1569271564148</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567019378389</updated>
-      <workItem from="1567019382401" duration="5270000" />
-      <workItem from="1567623780334" duration="11307000" />
-      <workItem from="1568058121717" duration="2606000" />
-      <workItem from="1568660876811" duration="415000" />
-      <workItem from="1569268330285" duration="3181000" />
+      <updated>1569271564148</updated>
+      <workItem from="1569271565566" duration="3098000" />
     </task>
     <servers />
   </component>
@@ -101,9 +83,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10598429\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10598429\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Tower Defense Unity Project.-542487602.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10598429\Documents\_Fall 2019 - GitKraken Clones\DGM-2670-ScriptingAnimationGames-Class\Tower Defense Unity Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Brackys Tutorial" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BuildManager.cs" t="Include" />
+            <e p="Bullet.cs" t="Include" />
+            <e p="CameraController.cs" t="Include" />
+            <e p="CompleteLevel.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="EnemyMovement.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameOver.cs" t="Include" />
+            <e p="LevelSelector.cs" t="Include" />
+            <e p="LivesUI.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="MoneyUI.cs" t="Include" />
+            <e p="Node.cs" t="Include" />
+            <e p="NodeUI.cs" t="Include" />
+            <e p="PauseMenu.cs" t="Include" />
+            <e p="PlayerStats.cs" t="Include" />
+            <e p="RoundsSurvived.cs" t="Include" />
+            <e p="SceneFader.cs" t="Include" />
+            <e p="Shop.cs" t="Include" />
+            <e p="Turret.cs" t="Include" />
+            <e p="TurretBlueprint.cs" t="Include" />
+            <e p="Wave.cs" t="Include" />
+            <e p="WaveSpawner.cs" t="Include" />
+            <e p="Waypoints.cs" t="Include" />
+          </e>
+        </e>
+        <e p="My Game" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="scr_EnemyAI.cs" t="Include" />
+            <e p="scr_Waypoints.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tower Defense Unity Project.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
