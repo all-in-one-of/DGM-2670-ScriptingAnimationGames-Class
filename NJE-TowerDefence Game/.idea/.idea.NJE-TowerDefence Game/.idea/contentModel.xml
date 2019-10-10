@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Nathan Ethington\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Nathan Ethington\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_NJE-TowerDefence Game.1518177822.00" t="ExcludeRecursive" />
-    <e p="D:\Documents - DataDrive\_School\2019 Fall\_RepoClones\DGM-2670-ScriptingAnimationGames-Class\NJE-TowerDefence Game" t="IncludeRecursive">
+    <e p="C:\Users\10598429\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10598429\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_NJE-TowerDefence Game.-1806146194.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10598429\Documents\_Fall 2019 - GitKraken Clones\DGM-2670-ScriptingAnimationGames-Class\NJE-TowerDefence Game" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scenes" t="Include">
-          <e p="scr_Enemy.cs" t="Include" />
-          <e p="scr_Waypoints.cs" t="Include" />
-        </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="AiWithNavMesh.cs" t="Include" />
@@ -23,12 +19,16 @@
           <e p="EventsWithArgs.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="ImageController.cs" t="Include" />
+          <e p="scr_Enemy.cs" t="Include" />
+          <e p="scr_Waypoints.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
         </e>
       </e>
       <e p="NJE-TowerDefence Game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
